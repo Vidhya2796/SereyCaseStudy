@@ -1,0 +1,14 @@
+package com.serey.login.dao;
+
+import com.serey.login.model.SereyUser;
+public class SereyDao
+{
+
+	public boolean validateUser(SereyUser sereyUser) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+
+	
+}

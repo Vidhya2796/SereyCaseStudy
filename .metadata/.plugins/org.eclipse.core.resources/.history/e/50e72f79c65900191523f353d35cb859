@@ -1,0 +1,5 @@
+package com.serey.login.repository;
+
+public class SereyRepository {
+
+}

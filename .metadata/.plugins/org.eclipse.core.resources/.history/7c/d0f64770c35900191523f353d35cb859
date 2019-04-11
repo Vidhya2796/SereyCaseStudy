@@ -1,0 +1,5 @@
+package com.serey.login.model;
+
+public class SereyUser {
+
+}
